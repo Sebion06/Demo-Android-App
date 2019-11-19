@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="login_title">Google Atelierul Digital</string>
+    <string name="login_subtitle">User Sign-In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="webview_example">WebView Example</string>
+    <string name="spinner_example">Spinner Example</string>
+    <string name="login_screen">Login Screen with Relative Layout</string>
+    <string name="go">GO</string>
+    <string name="todolist_example">Task List</string>
+    <string name="add">ADD</string>
+    <string name="task_add_hint">What would you like to do... ?</string>
+    <string name="chat_example">Chat List</string>
+    <string name="receive">RECEIVE MESSAGE</string>
+    <string name="send">SEND MESSAGE</string>
+    <string name="delete">DELETE</string>
 </resources>
